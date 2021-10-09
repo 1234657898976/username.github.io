@@ -10,8 +10,7 @@
             <li><img src="圖片/3.jpg" alt="1"></li>
         </ul>
     </body>
-</html>
-p{
+    p{
     color: palevioletred;
     font-size: 100px;
     line-height: 1;
@@ -24,3 +23,5 @@ html {
 img {
     width: 200px; 
 }
+</html>
+
