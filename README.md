@@ -2,7 +2,6 @@
     <hesd>
         <mata charset="utf-8">
         <title>123</title>
-    </hesd>
     <body>
         <p>練習中</p>
         <link href="網頁設計外觀.css" rel="stylesheet" type="text/css">
@@ -12,3 +11,16 @@
         </ul>
     </body>
 </html>
+p{
+    color: palevioletred;
+    font-size: 100px;
+    line-height: 1;
+    width: 2000px; 
+}
+html {
+    background-color: yellow; 
+    border: 5px solid green;
+}
+img {
+    width: 200px; 
+}
