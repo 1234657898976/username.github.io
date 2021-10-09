@@ -1,7 +1,6 @@
 <html>
    <hesd>
         <mata charset="utf-8">
-        <title>123</title>
     </hesd>
     <body>
         <p>練習中</p>
